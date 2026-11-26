@@ -1,11 +1,11 @@
 {
-    "name": "flutter_thai_hotline_app",
-    "short_name": "flutter_thai_hotline_app",
+    "name": "สายด่วน THAILAND",
+    "short_name": "สายด่วน THAILAND",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "สมุดโทรศัพท์สายด่วนในประเทศไทย",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
